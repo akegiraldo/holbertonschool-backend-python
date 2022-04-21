@@ -1,7 +1,9 @@
-#!/usr/bin/env python
-import math
+#!/usr/bin/env python3
+"""
+Basic annotations - floor
+"""
 
-"""Basic annotations - floor"""
+import math
 
 
 def floor(n: float) -> int:
